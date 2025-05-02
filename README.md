@@ -1,1 +1,3 @@
-# -
+<h1> inbuf55 </h1>
+**Inbuf55** is a lightweight PHP library designed for efficient input buffering and data processing, ideal for handling large datasets or streamed content with minimal memory overhead. It offers simple methods to capture, manipulate, and release buffers dynamically, making it useful for tasks like parsing raw POST data, file uploads, or API payloads. The library prioritizes performance and ease of integration, with a small codebase that avoids external dependencies. Developers can fetch it via Composer or directly include the standalone source, which includes optional helper functions for common use cases. Its MIT license allows flexible use in both open-source and commercial projects.
+
